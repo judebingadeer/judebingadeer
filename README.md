@@ -10,9 +10,8 @@ I am building strong engineering foundations through structured learning and pra
 
 Here you will find a collection of projects that reflect my growth in software engineering.
 
-- Project 1 – Coming Soon
-- Project 2 – Coming Soon
-- Project 3 – Coming Soon
+- Project 1 – AirCareAI
+- Project 2 – ScamDetector
 
 ---
 
